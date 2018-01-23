@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=RacketSports
+comment0.text=\n\ Write\ a\ description\ of\ interface\ RacketSports\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=skill\ p1
+comment1.target=boolean\ hitBall(int,\ Player)
+comment2.params=p1\ p2
+comment2.target=void\ rally(Player,\ Player)
+comment3.params=winner\ loser
+comment3.target=void\ pointScored(Player,\ Player)
+comment4.params=winner
+comment4.target=java.lang.String\ celebrate(Player)
+comment5.params=W\ L
+comment5.target=Player\ winMatch(Player,\ Player)
+numComments=6
